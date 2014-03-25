@@ -24,7 +24,6 @@
 
     <resources base="https://storage101.ord1.clouddrive.com/">
         <resource id="versions" path="v1">
-     
             <resource id="account" path="{account}">
                 <param name="account" style="template"
                     type="xsd:string">
